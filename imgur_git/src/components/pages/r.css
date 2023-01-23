@@ -1,0 +1,39 @@
+.sign-up {
+    background-image: url('./images/img-5.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: #fff;
+    font-size: 100px;
+  }
+
+  .products {
+    background-image: url('./images/img-2.jpg');
+    background-position: center;
+    background-size: fill;
+    background-repeat: no-repeat;
+    color: #fff;
+    font-size: 100px;
+  }
+
+  .container{
+    align-items: center;
+    
+  }
+
+.page{
+  width:70%;
+  align-items: center;
+  margin:auto;
+  margin-top: 200px;
+  font-weight: bold;
+  text-align: center;
+  color:crimson
+}
+
+
+
+/* body{
+  background-image: url('./images/img-7.jpg');
+} */
+

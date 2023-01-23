@@ -1,0 +1,23 @@
+
+.imgur-heading{
+    margin:auto;
+    padding:15px;
+    border:10px solid transparent;
+    border-bottom-right-radius:20px;
+    border-bottom-left-radius:20px;
+    width: 95%;
+    height: 150px;
+    color: rgb(83, 2, 70);
+    background-color: rgb(199, 199, 199);
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 30px;
+    font-weight: bold;
+    font-family: Georgia, Times, 'Times New Roman', serif;
+}
+
+.para{
+    font-size: large;
+    font-family:sans-serif;
+    /* font-weight: bold; */
+}
