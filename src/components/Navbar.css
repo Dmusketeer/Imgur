@@ -1,0 +1,51 @@
+.navbar {
+    background-color: rgb(113, 240, 120);
+    position: fixed;
+    width: 82%;
+    height:15%;
+    top: 0;
+    z-index: 999;    
+    border: 5px solid rgba(145, 145, 145, 0.438);
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+.btn {
+    padding: 0.5rem 1rem;
+}
+
+.btn:hover {
+    background-color:rgb(199, 199, 199);
+    transition: all 0.2s ease-out;
+}
+
+.search-bar{
+    background-color: aliceblue;
+    border-radius: 5px;
+    margin-right: 5%;
+    margin-left: 20%;
+}
+
+.logo{
+    color:black;
+  
+    font-family: fantasy;
+}
+
+.search-btn{
+    background-color: cornflowerblue;
+}
+
+.signin-btn{
+    margin-left: 20%;
+    background-color:violet;
+}
+
+.signout-btn{
+    margin-right: 0;
+    background-color: rgb(3, 189, 28);
+}
+
+.new-post-btn{
+    background-color: rgb(3, 189, 28);
+}
