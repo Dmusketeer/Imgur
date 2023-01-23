@@ -1,12 +1,4 @@
-
-.main{
-  align-items:center;
-}
-
-body{
-  background-image: url('https://source.unsplash.com/random/dark,black,backgroung');
-  height: 100vh;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
+.App {
+  text-align: center;
+  margin: auto;
 }
